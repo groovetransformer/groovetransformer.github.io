@@ -40,17 +40,19 @@ To access the provided supplementary material for the `VST/Standalone` version, 
 
 ##### `Eurorack Version` 
 
+`Short Video 1`
 <video width="320" height="240" controls>
   <source src="/assets/video/GT Demo_compressed.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-
+`Short Video 2`
 <video width="320" height="240" controls>
   <source src="/assets/video/20230621_112345_compressed.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
+`Short Video 3`
 <video width="320" height="240" controls>
   <source src="/assets/video/20230621_114659_compressed.mp4" type="video/mp4">
   Your browser does not support the video tag.
