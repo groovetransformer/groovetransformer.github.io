@@ -19,8 +19,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-<video width="320" height="240" controls>
-  <source src="/assets/video/20230621_112345.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
