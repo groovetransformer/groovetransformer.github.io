@@ -15,13 +15,13 @@ nav_order: 1
 ## Source Code
 ---
 
-### Daisy Seed Source (C++)
+### `Daisy Seed Source (C++)`
 <a href="/assets/zip/DaisySeedCode.zip" download>Download File</a>
 
-### Libre (or RPi) Code (Python)
+### `Libre (or RPi) Code (Python)`
 <a href="/assets/zip/LibreBoardCode.zip" download>Download File</a>
 
-### Additional Info
+### `Additional Info`
 <a href="/assets/pdf/AdditionalNotes.pdf" download>Download File</a>
 
 
@@ -29,19 +29,19 @@ nav_order: 1
 ## PCB 
 ---
 
-### PCB: Schematics
+### `Schematics`
 
 <a href="/assets/pdf/Schematic_FrontPCB.pdf" download>Download File: Front PCB</a>
 
 <a href="/assets/assets/pdf/Schematic_BottomPCB.pdf" download>Download File: Bottom PCB</a>
 
-### PCB: Gerber Files
+### `Gerber Files`
 <a href="/assets/zip/PCB_Gerber_Files.zip" download>Download File</a>
 
-### JLCPCB Production Files
+### `JLCPCB Production Files`
 <a href="/assets/zip/JLCPCB_Production_Files.zip" download>Download File</a>
 
-### PCB: Images
+### `Images`
 
 <img src="/assets/img/pcb/BackPCB.png" alt="BackPCP 1" style="width: 25%;">
 <img src="/assets/img/pcb/BackPCB2.png" alt="BackPCP 2" style="width: 25%;">
@@ -53,11 +53,11 @@ nav_order: 1
 ## Faceplate
 ---
 
-### Faceplate: Design
+### `Design`
 
 <img src="/assets/img/pcb/Panel Design.jpg" alt="Panel Design" style="width: 25%;">
 
-### Faceplate Different Finishes
+### `Different Finishes`
 
 `No Faceplate:`
 
