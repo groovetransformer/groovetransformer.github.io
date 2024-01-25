@@ -11,17 +11,15 @@ nav_order: 1
 
 ## Videos 
 
-<video width="320" height="240" controls>
+<video width="160" height="120" controls>
   <source src="/assets/video/GT Demo_compressed.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-
-<video width="320" height="240" controls>
+<video width="160" height="120" controls>
   <source src="/assets/video/20230621_112345_compressed.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-
-<video width="320" height="240" controls>
+<video width="160" height="120" controls>
   <source src="/assets/video/20230621_114659_compressed.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
