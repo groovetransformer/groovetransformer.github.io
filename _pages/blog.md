@@ -43,9 +43,10 @@ nav_order: 1
 
 ### PCB: Images
 
-<img src="/assets/img/pcb/BackPCB.png" alt="BackPCP 1" style="width: 20%;"><img src="/assets/img/pcb/BackPCB2.png" alt="BackPCP 2" style="width: 20%;">
+<img src="/assets/img/pcb/BackPCB.png" alt="BackPCP 1" style="width: 25%;">
+<img src="/assets/img/pcb/BackPCB2.png" alt="BackPCP 2" style="width: 25%;">
 
-<img src="/assets/img/pcb/FrontPCB.png" alt="FrontPCP 1" style="width: 20%;"><img src="/assets/img/pcb/FrontPCB2.png" alt="FrontPCP 2" style="width: 20%;">
+<img src="/assets/img/pcb/FrontPCB.png" alt="FrontPCP 1" style="width: 25%;"><img src="/assets/img/pcb/FrontPCB2.png" alt="FrontPCP 2" style="width: 25%;">
 
 ---
 ## Faceplate
