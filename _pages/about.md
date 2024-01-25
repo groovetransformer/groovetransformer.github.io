@@ -28,8 +28,8 @@ In this website, we have compiled a number of demos, as well as, all the source 
 ---
 
 To access the provided supplementary material for the `Eurorack` version, please refer to the 
-[Eurorack]({{ site.baseurl }}/eurorack/) page. In this page, you will find the [source code]({{ site.baseurl }}/eurorack/#source-code), [pcb]({{ site.baseurl }}/eurorack/#pcb),
-and [faceplate]({{ site.baseurl }}/eurorack/#faceplate) resources.
+[Eurorack]({{ site.baseurl }}/Eurorack/) page. In this page, you will find the [source code]({{ site.baseurl }}/Eurorack/#source-code), [pcb]({{ site.baseurl }}/Eurorack/#pcb),
+and [faceplate]({{ site.baseurl }}/Eurorack/#faceplate) resources.
 
 To access the provided supplementary material for the `VST/Standalone` version, please refer to the 
 [VST3]({{ site.baseurl }}/VST3/) page. In this page, you will find the `VST3` [source code]({{ site.baseurl }}/VST3/#source-code) of the software version of the eurorack module. 
