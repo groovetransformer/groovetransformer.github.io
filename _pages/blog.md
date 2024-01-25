@@ -59,19 +59,19 @@ nav_order: 1
 
 ### Faceplate Different Finishes
 
-No Faceplate:
+`No Faceplate:`
 
 <img src="/assets/img/faceplate/NoFaceplate.jpg" alt="NoFaceplate" style="width: 25%;">
 
-Laser Cut and Laser Etched Wood:
+`Laser Cut and Laser Etched Wood:`
 
 <img src="/assets/img/faceplate/Wood.jpg" alt="Wood" style="width: 25%;">
 
-Glass:
+`Glass:`
 
 <img src="/assets/img/faceplate/Glass.jpg" alt="Glass" style="width: 25%;">
 
-Glass with Printed Sticker:
+`Glass with Printed Sticker:`
 
 <img src="/assets/img/faceplate/print_.jpg" alt="Sticker" style="width: 25%;">
 
