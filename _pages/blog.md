@@ -6,6 +6,7 @@ nav: true
 nav_order: 1
 ---
 
+
 # Supplementary Material for the GrooveTransformer Eurorack Module
 
 ## Videos 
@@ -32,13 +33,12 @@ nav_order: 1
 ### Schematics
 
 ### Images
-<img src="/assets/img/pcb/BackPCB.png" alt="BackPCP 1" style="width: 50%;">
 
-<img src="/assets/img/pcb/BackPCB2.png" alt="BackPCP 2" style="width: 50%;">
+{% include figure.liquid path="/assets/img/pcb/BackPCB.png" title="Back PCB" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid path="/assets/img/pcb/BackPCB2.png" title="Back PCB" class="img-fluid rounded z-depth-1" %}
 
-<img src="/assets/img/pcb/FrontPCB.png" alt="FrontPCP 1" style="width: 50%;">
-
-<img src="/assets/img/pcb/FrontPCB2.png" alt="FrontPCP 2" style="width: 50%;">
+{% include figure.liquid path="/assets/img/pcb/FrontPCB.png" title="Front PCB" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid path="/assets/img/pcb/FrontPCB2.png" title="Front PCB" class="img-fluid rounded z-depth-1" %}
 
 ### Schematics
 
