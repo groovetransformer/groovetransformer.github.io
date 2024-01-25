@@ -46,7 +46,8 @@ nav_order: 1
 <img src="/assets/img/pcb/BackPCB.png" alt="BackPCP 1" style="width: 25%;">
 <img src="/assets/img/pcb/BackPCB2.png" alt="BackPCP 2" style="width: 25%;">
 
-<img src="/assets/img/pcb/FrontPCB.png" alt="FrontPCP 1" style="width: 25%;"><img src="/assets/img/pcb/FrontPCB2.png" alt="FrontPCP 2" style="width: 25%;">
+<img src="/assets/img/pcb/FrontPCB.png" alt="FrontPCP 1" style="width: 25%;">
+<img src="/assets/img/pcb/FrontPCB2.png" alt="FrontPCP 2" style="width: 25%;">
 
 ---
 ## Faceplate
@@ -58,8 +59,20 @@ nav_order: 1
 
 ### Faceplate Different Finishes
 
+No Faceplate:
+
+<img src="/assets/img/faceplate/NoFaceplate.jpg" alt="NoFaceplate" style="width: 25%;">
+
 Laser Cut and Laser Etched Wood:
 
-PlexyGlass:
+<img src="/assets/img/faceplate/Wood.jpg" alt="Wood" style="width: 25%;">
 
-PlexyGlass with Glued Faceplate
+Glass:
+
+<img src="/assets/img/faceplate/Glass.jpg" alt="Glass" style="width: 25%;">
+
+Glass with Printed Sticker:
+
+<img src="/assets/img/faceplate/print_.jpg" alt="Sticker" style="width: 25%;">
+
+
