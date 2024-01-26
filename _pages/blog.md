@@ -13,8 +13,7 @@ nav_order: 1
 ---
 ## Controls
 --
-### `I/O Components and Definitions`
-# Interface Controls and Parameters
+### `Interface Controls and Parameters`
 
 |                                    | Figure Index | Name                         | Description                                                                                                                               |
 |------------------------------------|--------------|------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
