@@ -38,6 +38,8 @@ To access the provided supplementary material for the `VST/Standalone` version, 
 ### Demos
 ---
 
+The following recordings have been prepared by the authors of the paper. Live concert recordings will be uploaded soon as well. 
+
 #### Live Accompaniment in Virtual Eurorack Environment
 
 <video width="400" height="280" controls>
