@@ -40,9 +40,10 @@ To access the provided supplementary material for the `VST/Standalone` version, 
 
 The following recordings have been prepared by the authors of the paper. Live concert recordings will be uploaded soon as well. 
 
+---
 #### Live Accompaniment in Virtual Eurorack Environment
 
-<video width="400" height="280" controls>
+<video width="600" height="400" controls>
   <source src="/assets/video/VCV_VST_Keyboard_LowRes.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -64,6 +65,8 @@ Drum Synthesis:
 - A single FM Operator was used for all hats (closed and open). The decay of the envelop was controlled by the type of trigger
 - For Rides and Toms, two separate Mutable Instrument Plait modules were used.
 
+---
+
 #### Eurorack Jams
 
 ##### Jam 1
@@ -73,7 +76,7 @@ Drum Synthesis:
 ##### Jam 3
 
 
-
+---
 
 #### Module Videos (Exploring Synthesis)
 <video width="320" height="240" controls>
@@ -95,5 +98,5 @@ Drum Synthesis:
   Your browser does not support the video tag.
 </video>
 
-
+---
 #### Additional Jams (Audio Only)
