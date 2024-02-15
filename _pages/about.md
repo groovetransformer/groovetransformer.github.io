@@ -101,8 +101,10 @@ Drum Synthesis:
 
 ---
 
-#### Additional Jams (Audio Only)
+#### Additional Jams (Audio Only) 
 
+All these sessions were done live and haven't been editted. 
+ 
 
 ##### 1 - Live accompaniment generated based on a live synth performance. Drums synthesized using Microtonic layered with Acoustic drums
 
@@ -125,7 +127,7 @@ Drum Synthesis:
 </div>
 
 
-##### 3 - Here we play a sequence of chords (MIDI) and also play the synthesizer live. The drum accompaniments are generated using a modular patch and near the end using acoustic drums as well.
+##### 3 - Similar to above, however, the generations were played back on a virtual acoustic drum kit.
 
 
 <div class="row mt-3">
