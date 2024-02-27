@@ -89,7 +89,7 @@ The Intellijel Plonk has a dedicated velocity input that we utilized rather than
 
 ##### Video 1
 
-<video width="320" height="240" controls>
+<video width="600" height="400" controls>
   <source src="/assets/video/Jam 3 - Pt1 - compressed_compressed.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -102,6 +102,7 @@ The Intellijel Plonk has a dedicated velocity input that we utilized rather than
 </video>
 
 ##### Video 3
+
 
 <video width="320" height="240" controls>
   <source src="/assets/video/Jam 3 - Pt3 - compressed_compressed.mp4" type="video/mp4">
